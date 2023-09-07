@@ -4,7 +4,7 @@ console.log('ucim js');
 */
 
 /*NE ZABİVAİ UKARACİVAT GLİNİE TEXTİ!
-document.getElementById('anti_text').innerHTML = 'ocen glinniy text kotoriy nado razorvat'; FALSE
+innerHTML = 'ocen glinniy text kotoriy nado razorvat'; FALSEdocument.getElementById('anti_text').
 
 document.getElementById('text').innerHTML = 
 'ukoroceniy text!'; TRUE
@@ -17,7 +17,7 @@ alert( text + "dopolnitelniy text");
 */
 
 /*NE ZABİVAY STAVİT TOCKA ZAPETOY! = ;
-console.log('ucim1 js') FALSE
+ucim1 js'console.log(') FALSE
 ['ucim2', 'js'].forEach(alert)
 
 console.log('ucim1 js'); TRUE
@@ -111,6 +111,6 @@ for (; i < 3;){
     alert( i++ );
 
     for (;;){
-         // будет выполняться вечн
+         // будет выполняться вечнo
     }
 }*/
